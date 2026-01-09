@@ -84,10 +84,7 @@ nav .menu a{
      
      
 }
-.hero-dot{
 
-
-}
 .hero-container h1{
      color: white;
      padding-bottom: 16px;
@@ -101,7 +98,7 @@ nav .menu a{
      color: white;
      line-break: 16px ;
 
-}
+
 .hero-button{
      padding-top: 32px;
      display: flex;
