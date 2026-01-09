@@ -212,6 +212,11 @@ padding-bottom: 16px;
      max-width: 1360px;
      margin: 0 auto;
      background-color: #F7F6F2;
+     padding-bottom: 30px;
+
+}
+.hi{
+     padding-bottom: 100px;
 }
 
 .ready-heading{
@@ -239,10 +244,18 @@ padding-bottom: 16px;
      padding-top: 16px;
 
 }
-.image{
-  
+.footer-container{
+      width: 117%;
+     max-width: 1360px;
+     margin: 0 auto;
+     display: flex;
+     justify-content: space-between;
+     background-color: #001931;
+
 }
-     
+.footer-container p{
+     color: white;
+}
 
 
 
