@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.font-open-inter{
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+}
+
+header{
+     padding-top: 16px;
+}
+nav{
+     width: 117%;
+     max-width: 1360px;
+     margin: 0 auto;
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     margin: 0 120px;
+     
+}
+
+
+nav .menu{
+     display: flex;
+     list-style: none;
+     align-items: center;
+     gap: 32px;     
+}
+nav .menu a{
+     font-size: 16px;
+     text-decoration: none;
+}
+.logo{
+     width: 139px;
+     height: 60px;
+     margin: 16px;
+}
+.btn{
+     background-color: #30B868;
+     border: none;
+     padding: 12.5px 16px;
+     border-radius: 4px;
+     font-size: 16px;
+     font-weight: 600px;
+     color: white;
+     cursor: pointer;
+}
